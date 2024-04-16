@@ -1,4 +1,4 @@
-package org.example;
+package org.example.mytesttable;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.mytesttable;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
